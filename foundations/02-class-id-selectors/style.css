@@ -1,0 +1,16 @@
+.paragraph {
+    background-color: #ff000050;
+    font-family: Verdana, 'DejaVu Sans', Sans-serif;
+}
+#bluetext {
+    color: #0000ff;
+    font-size: 36px;
+}
+.paragraph.special {
+    font-size: 24px;
+}
+#greenbg {
+    background-color: rgba(0, 255, 0, 0.5);
+    font-size: 24px;
+    font-weight: bold;
+}
